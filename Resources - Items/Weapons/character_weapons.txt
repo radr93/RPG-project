@@ -1,0 +1,18 @@
+- Ajax
+	- 1h sword
+	- 2h sword
+- Roe
+	- Staff
+	- Club
+- Norrick
+	- 1h sword
+	- 2h sword
+- Din
+	- Staff
+	- Club
+- Brandeigh
+	- 1h sword
+	- 2h sword
+- Banda
+	- 1h sword
+	- 2h sword

@@ -1,0 +1,73 @@
+TO DO LIST:
+
+[IMPORT OPERATIONS]
+- Finish formatting enemies
+
+[PLANNING OPERATIONS]
+- Plan out all stats
+- Plan out all skills
+
+[DATABASE OPERATIONS]
+- Build up all databases
+	- Armor
+	- Items
+	- Weapons
+	- Magic
+	- Skills
+	- Levelling curve
+	- Monsters
+
+[CODING OPERATIONS]
+- Movement
+- Interaction w/ environment
+	- Picking up items
+	- Talking to NPCs
+		- Dialogue {XXXXX}
+		- Shops
+		- Inns
+		- "Quests" (giving over items)
+	- Reading signs
+	- Collision w/ walls
+	- Going in and out doors
+	- Engaging in random battles {XXXXX}
+- Menu Systems
+	- Main Menu
+		- Main Screen
+		- New Game
+		- Load Game
+		- Options
+	- Naming Characters
+	- Character Interface
+		- Main
+		- Item
+		- Magic
+		- Skill
+		- Equip
+		- Status
+		- Order
+		- Config
+		- Save
+	- Shopping interface
+		- Buy
+		- Sell
+		- Gamble?
+- Dialogue system
+	- Reading text from NPCs
+	- Answering with a different choices
+		- Yes/No
+		- Choices relating to plot
+
+- Battle System
+
+[THEORYCRAFTING]
+- Come up with a balanced approach to damage calculations
+	- Melee outbound
+	- Melee inbound
+	- Ranged outbound
+	- Ranged inbound
+	- Spell outbound
+	- Spell inbound
+- Come up with a balanced approach to stat growth and effect
+	- How much of each stat is gained per level
+	- How much does each stat affect secondary stats
+- Come up with an enjoyable level curve
